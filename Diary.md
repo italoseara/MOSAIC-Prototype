@@ -11,3 +11,6 @@ Nota: pedir para professor explicar melhor o que é MOS e IFU
 IFU finalizado para LR
 
 Acredito que o código está um pouco caótico, gostaria de reescreve-lo em outro momento
+
+## 17/11/2024
+
